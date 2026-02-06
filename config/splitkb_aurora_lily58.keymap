@@ -108,7 +108,7 @@
             bindings = <
    &kp ESC          &kp N6           &kp N7           &kp N8           &kp N9           &kp N0                                             &bt BT_DISC 0    &bt BT_DISC 1    &bt BT_DISC 2    &bt BT_DISC 3    &bt BT_DISC 4    &kp BSPC            
    &kp TAB          &kp F9           &kp F10          &kp F11          &kp F12          &bt BT_PRV                                         &kp KP_SLASH     &kp KP_N7        &kp KP_N8        &kp KP_N9        &kp KP_MINUS     &kp KP_NUMLOCK      
-   &kp LSHIFT       &kp F5           &kp F6           &kp F7           &kp F8           &bt BT_NXT                                         &kp KP_ASTERISK  &kp KP_N4        &kp KP_N5        &kp KP_N6        &kp KP_PLUS      &mt RSHIFT C_AL_CALC
+   &mt LSHIFT CAPS  &kp F5           &kp F6           &kp F7           &kp F8           &bt BT_NXT                                         &kp KP_ASTERISK  &kp KP_N4        &kp KP_N5        &kp KP_N6        &kp KP_PLUS      &mt RSHIFT C_AL_CALC
    &kp LCTRL        &kp F1           &kp F2           &kp F3           &kp F4           &out OUT_TOG     &rgb_ug RGB_TOG  &rgb_ug RGB_TOG  &kp KP_N0        &kp KP_N1        &kp KP_N2        &kp KP_N3        &kp KP_DOT       &kp RCTRL           
                                      &trans           &trans           &trans           &trans                                             &trans           &trans           &trans           &trans                                                
             >;
