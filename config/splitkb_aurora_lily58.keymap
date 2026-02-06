@@ -21,16 +21,16 @@
 #define SYMBOLS 3
 #define MOUSE 4
 
-#define KEY_LSHIFT 24
+#define KEY_LSHIFT 29
 #define KEY_RSHIFT 35
-#define KEY_WIN 49
-#define KEY_LALT 50
+#define KEY_WIN 53
+#define KEY_LALT 52
 #define KEY_LOWER 51
-#define KEY_SPACE 52
-#define KEY_ENTER 53
-#define KEY_RAISE 54
-#define KEY_RALT 55
-#define KEY_DEL 56
+#define KEY_SPACE 50
+#define KEY_ENTER 54
+#define KEY_RAISE 55
+#define KEY_RALT 56
+#define KEY_DEL 57
 
 / {
     behaviors {
