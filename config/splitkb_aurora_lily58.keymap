@@ -23,14 +23,14 @@
 
 #define KEY_LSHIFT 24
 #define KEY_RSHIFT 35
-#define KEY_WIN 48
-#define KEY_LALT 49
-#define KEY_LOWER 50
-#define KEY_SPACE 51
-#define KEY_ENTER 52
-#define KEY_RAISE 53
-#define KEY_RALT 54
-#define KEY_DEL 55
+#define KEY_WIN 50
+#define KEY_LALT 51
+#define KEY_LOWER 52
+#define KEY_SPACE 53
+#define KEY_ENTER 54
+#define KEY_RAISE 55
+#define KEY_RALT 56
+#define KEY_DEL 57
 
 / {
     behaviors {
