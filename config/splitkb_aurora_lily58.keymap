@@ -61,14 +61,14 @@
         };
         combo_to_lower {
             timeout-ms = <50>;
-            key-positions = <KEY_LOWER KEY_ENTER>;
+            key-positions = <KEY_LOWER KEY_SPACE>;
             bindings = <&to LOWER>;
             layers = <BASE>;
         };
         combo_to_raise {
             timeout-ms = <50>;
             key-positions = <KEY_ENTER KEY_RAISE>;
-            bindings = <&to MOUSE>;
+            bindings = <&to RAISE>;
             layers = <BASE>;
         };
         combo_to_base {
