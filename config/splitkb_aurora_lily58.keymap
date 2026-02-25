@@ -80,15 +80,15 @@
         };
         combo_to_base {
             timeout-ms = <50>;
-            key-positions = <KEY_LALT KEY_LOWER KEY_SPACE>;
+            key-positions = <KEY_WIN KEY_LALT KEY_LOWER KEY_SPACE>;
             bindings = <&to BASE>;
-            layers = <MOUSE LOWER RAISE>;
+            layers = <MOUSE LOWER RAISE WASD>;
         };
         combo_to_base_alt {
             timeout-ms = <50>;
-            key-positions = <KEY_ENTER KEY_RAISE KEY_RALT>;
+            key-positions = <KEY_ENTER KEY_RAISE KEY_RALT KEY_DEL>;
             bindings = <&to BASE>;
-            layers = <MOUSE LOWER RAISE>;
+            layers = <MOUSE LOWER RAISE WASD>;
         };
         combo_caps_word {
             timeout-ms = <50>;
