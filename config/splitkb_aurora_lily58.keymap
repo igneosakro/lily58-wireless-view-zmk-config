@@ -22,7 +22,7 @@
 #define MOUSE 4
 #define WASD 5
 
-#define KEY_LSHIFT 29
+#define KEY_LSHIFT 24
 #define KEY_RSHIFT 35
 #define KEY_WIN 50
 #define KEY_LALT 51
